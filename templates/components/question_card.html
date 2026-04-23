@@ -1,0 +1,24 @@
+<div class="card">
+
+    <p class="question">{{ q.q }}</p>
+
+    {% if q.img %}
+    <img src="{{ q.img }}" class="q-img">
+    {% endif %}
+
+    <form method="POST" id="quizForm">
+
+        {% for opt in q.options %}
+        <label class="option">
+            <input type="radio" name="answer" value="{{ loop.index0 }}">
+            <span>{{ opt }}</span>
+        </label>
+        {% endfor %}
+
+        <div class="actions">
+            <button type="submit">Next</button>
+        </div>
+
+    </form>
+
+</div>

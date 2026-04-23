@@ -1,0 +1,13 @@
+<aside class="sidebar">
+    <div class="grid">
+        {% for i in range(total) %}
+        <div class="
+            cell
+            {% if i == qn %}active{% endif %}
+            {% if answers|length > i and answers[i] != -1 %}answered{% endif %}
+        ">
+            {{ i+1 }}
+        </div>
+        {% endfor %}
+    </div>
+</aside>

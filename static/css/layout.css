@@ -1,0 +1,19 @@
+.app {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px 30px;
+    background: white;
+    border-bottom: 1px solid var(--border);
+}
+
+.main {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}

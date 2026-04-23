@@ -1,0 +1,2742 @@
+[
+  {
+    "q": "Near a pedestrian crossing, when pedestrians are waiting to cross the road, what should you do?",
+    "options": [
+      "Sound horn and proceed",
+      "Slow down, sound horn and pass",
+      "Stop the vehicle and wait till pedestrians cross, then proceed"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pedestrian_crossing_sign.png",
+    "correct": 2
+  },
+  {
+    "q": "You are approaching a narrow bridge and another vehicle is about to enter from the opposite side. What should you do?",
+    "options": [
+      "Increase speed and cross quickly",
+      "Switch on headlights and proceed",
+      "Wait until the other vehicle crosses"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Narrow_bridge_sign.png",
+    "correct": 2
+  },
+  {
+    "q": "When a vehicle is involved in an accident causing injury, what should the driver do?",
+    "options": [
+      "Take vehicle to police station",
+      "Report later",
+      "Provide medical help and report to police within 24 hours"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "On a one-way road, you should not:",
+    "options": [
+      "Park",
+      "Drive in reverse",
+      "Overtake"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/One_way_traffic_sign.svg/512px-One_way_traffic_sign.svg.png",
+    "correct": 1
+  },
+  {
+    "q": "You can overtake a vehicle in front:",
+    "options": [
+      "From right side",
+      "From left if road is wide",
+      "From any side"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "When approaching an unguarded railway crossing, what should you do?",
+    "options": [
+      "Stop, get down, and check for trains",
+      "Cross quickly",
+      "Blow horn continuously"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Unguarded_level_crossing_sign.png",
+    "correct": 0
+  },
+  {
+    "q": "How can you distinguish a transport vehicle?",
+    "options": [
+      "By tyre size",
+      "By number plate",
+      "By color"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Validity of a learner's licence is:",
+    "options": [
+      "30 days",
+      "6 months",
+      "1 year"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "On roads without footpaths, pedestrians should walk:",
+    "options": [
+      "Left side",
+      "Right side",
+      "Any side"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Free passage should be given to:",
+    "options": [
+      "Ambulance and fire service",
+      "Buses",
+      "Private cars"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ambulance_sign.png",
+    "correct": 0
+  },
+
+  {
+    "q": "Vehicles from opposite direction should be allowed to pass:",
+    "options": [
+      "Through your right side",
+      "Through your left side",
+      "Through any convenient side"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driver may overtake:",
+    "options": [
+      "While going downhill",
+      "If road is sufficiently wide",
+      "Without signal"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "A driver must drive:",
+    "options": [
+      "On left side of road",
+      "On right side",
+      "Anywhere"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Parking on right side is:",
+    "options": [
+      "Allowed",
+      "Prohibited",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Horn is prohibited in:",
+    "options": [
+      "Silent zones",
+      "Highways",
+      "Villages"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/No_horn_sign.png",
+    "correct": 0
+  },
+
+  {
+    "q": "When ambulance approaches, you must:",
+    "options": [
+      "Ignore",
+      "Give way",
+      "Race ahead"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Parking in front of hospital entrance is:",
+    "options": [
+      "Allowed",
+      "Improper",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "On slippery road you should:",
+    "options": [
+      "Reduce speed",
+      "Maintain speed",
+      "Increase speed"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Slippery_road_sign.png",
+    "correct": 0
+  },
+  {
+    "q": "Overtaking is prohibited when:",
+    "options": [
+      "Danger exists",
+      "Road is clear",
+      "Vehicle is slow"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Mobile phone usage while driving is:",
+    "options": [
+      "Allowed",
+      "Allowed with care",
+      "Prohibited"
+    ],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "Red traffic light means:",
+    "options": [
+      "Stop",
+      "Go",
+      "Slow"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Traffic_lights_red.png",
+    "correct": 0
+  },
+  {
+    "q": "Rear view mirror is used for:",
+    "options": [
+      "Seeing behind traffic",
+      "Seeing passengers",
+      "Decoration"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Parking is prohibited:",
+    "options": [
+      "At footpath",
+      "At turning",
+      "Both"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Smoking while driving public vehicle is:",
+    "options": [
+      "Allowed",
+      "Optional",
+      "Prohibited"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Using horn near hospital is:",
+    "options": [
+      "Allowed",
+      "Prohibited",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Driving under alcohol influence is:",
+    "options": [
+      "Allowed",
+      "Allowed at night",
+      "Prohibited"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Continuous yellow line means:",
+    "options": [
+      "No crossing",
+      "Free crossing",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Stop line indicates:",
+    "options": [
+      "Stop here",
+      "Slow down",
+      "Overtake"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Minimum age for motorcycle without gear:",
+    "options": [
+      "16",
+      "18",
+      "21"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "School zone sign means:",
+    "options": [
+      "Stop immediately",
+      "Slow down",
+      "Ignore"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/School_zone_sign.png",
+    "correct": 1
+  },
+
+  {
+    "q": "While turning left you should:",
+    "options": [
+      "Signal and keep left",
+      "Move center",
+      "No signal"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "U-turn is prohibited:",
+    "options": [
+      "At busy roads",
+      "Anywhere",
+      "Never"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Hand signal downward means:",
+    "options": [
+      "Stop",
+      "Slow down",
+      "Turn"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driver should not take U-turn:",
+    "options": [
+      "At heavy traffic",
+      "At empty road",
+      "Anywhere"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "One-time tax for new car valid till:",
+    "options": [
+      "Registration cancelled",
+      "1 year",
+      "5 years"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Before overtaking ensure:",
+    "options": [
+      "Road is clear",
+      "Vehicle slow",
+      "Horn works"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "More than 2 persons on bike:",
+    "options": [
+      "Allowed",
+      "Allowed rarely",
+      "Illegal"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Using unregistered vehicle is:",
+    "options": [
+      "Legal",
+      "Illegal",
+      "Allowed sometimes"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Minimum age for transport licence:",
+    "options": [
+      "18",
+      "20",
+      "21"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Over speeding is:",
+    "options": [
+      "Not offence",
+      "Fine only",
+      "Serious offence"
+    ],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "When school bus stops:",
+    "options": [
+      "Ignore",
+      "Slow down",
+      "Overtake"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Blind person with white cane:",
+    "options": [
+      "Ignore",
+      "Stop",
+      "Honk"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Vehicle behind overtaking:",
+    "options": [
+      "Speed up",
+      "Block",
+      "Do not obstruct"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Parking near fire hydrant:",
+    "options": [
+      "Allowed",
+      "Prohibited",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "When tired while driving:",
+    "options": [
+      "Continue",
+      "Stop and rest",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Boarding or alighting from a vehicle while it is in motion is:",
+    "options": ["Allowed", "Allowed in emergency", "Prohibited"],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "When fuel is being filled in a vehicle, the driver should:",
+    "options": ["Use mobile phone", "Switch off engine and avoid flames", "Keep engine running"],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Parking is permitted:",
+    "options": ["On footpath", "At road junction", "Where it is not prohibited"],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Heavy vehicles sign indicates:",
+    "options": ["Heavy vehicles allowed", "Heavy vehicles prohibited", "Only buses allowed"],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/No_trucks_sign.png",
+    "correct": 1
+  },
+  {
+    "q": "While filling fuel, you should not:",
+    "options": ["Switch off engine", "Use mobile phone or light", "Close windows"],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Mobile phones should not be used:",
+    "options": ["In office", "While driving", "At home"],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Overtaking is prohibited:",
+    "options": ["When road is clear", "When road ahead is not visible", "On straight roads"],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driving speed limit of 50 km/hr means:",
+    "options": ["Below 50 km/hr", "Exactly 50 km/hr", "Not exceeding 50 km/hr"],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Pedestrians should not cross at sharp bends because:",
+    "options": [
+      "Inconvenience to drivers",
+      "Drivers cannot see them clearly",
+      "Road is narrow"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Records of a private vehicle include:",
+    "options": [
+      "RC, Insurance, Tax Token, Driving Licence",
+      "Permit only",
+      "Trip sheet only"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "While turning left, you should:",
+    "options": [
+      "Go to center then turn",
+      "Keep left and signal",
+      "Turn suddenly"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Validity of Pollution Under Control Certificate is:",
+    "options": ["6 months", "1 year", "Unlimited"],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "When using high beam at night and another vehicle approaches:",
+    "options": [
+      "Keep high beam",
+      "Switch between beams",
+      "Dim headlights"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Minimum age for motorcycle without gear:",
+    "options": ["16 years", "18 years", "21 years"],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "School sign indicates:",
+    "options": [
+      "Speed up",
+      "Slow down and proceed carefully",
+      "Stop vehicle"
+    ],
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/School_zone_sign.png",
+    "correct": 1
+  },
+
+  {
+    "q": "Hand signal downward movement means:",
+    "options": ["Turning", "Slowing down", "Stopping"],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driver should not take U-turn:",
+    "options": [
+      "Where prohibited",
+      "Anywhere",
+      "On empty roads"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "One-time tax for a new car is valid:",
+    "options": [
+      "Till registration cancelled",
+      "1 year",
+      "5 years"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Before overtaking, ensure:",
+    "options": [
+      "Vehicle behind is clear",
+      "Road ahead is clear and safe",
+      "Vehicle ahead is slow"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Persons allowed in goods vehicle cabin:",
+    "options": [
+      "Only driver",
+      "Driver + 1",
+      "As per registration certificate"
+    ],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "When your vehicle is being overtaken:",
+    "options": [
+      "Increase speed",
+      "Block vehicle",
+      "Do not obstruct"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Parking is prohibited:",
+    "options": [
+      "Near fire hydrant",
+      "On wide road",
+      "In parking area"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "More than two persons on a two-wheeler:",
+    "options": ["Allowed", "Allowed in emergency", "Illegal"],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Using unregistered vehicle is:",
+    "options": ["Legal", "Illegal", "Allowed sometimes"],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Minimum age for transport vehicle licence:",
+    "options": ["18", "20", "21"],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "Over speeding is:",
+    "options": [
+      "Not an offence",
+      "Fine only",
+      "Punishable offence"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "When school bus stops:",
+    "options": [
+      "Blow horn",
+      "Slow down",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Blind person with white cane:",
+    "options": ["Ignore", "Stop vehicle", "Blow horn"],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Vehicle behind overtaking:",
+    "options": [
+      "Speed up",
+      "Block",
+      "Do not obstruct"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Parking near hospital entrance:",
+    "options": ["Allowed", "Prohibited", "Optional"],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "When tired while driving:",
+    "options": [
+      "Continue driving",
+      "Stop and take rest",
+      "Increase speed"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "At an uncontrolled intersection, give way to:",
+    "options": [
+      "Vehicles from left",
+      "Vehicles from right",
+      "Vehicles behind"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Yellow blinking signal means:",
+    "options": [
+      "Stop",
+      "Proceed with caution",
+      "Go fast"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Continuous yellow line means:",
+    "options": [
+      "Do not cross",
+      "Free to cross",
+      "Parking allowed"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving on gradient roads:",
+    "options": [
+      "Give way to uphill vehicles",
+      "Give way to downhill vehicles",
+      "No rule"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "While entering main road from branch road:",
+    "options": [
+      "Give way to main road traffic",
+      "Speed up",
+      "Blow horn"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Tailgating means:",
+    "options": [
+      "Driving too close behind",
+      "Driving safely",
+      "Driving slowly"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving without insurance:",
+    "options": [
+      "Allowed",
+      "Illegal",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Drunken driving punishment:",
+    "options": [
+      "Fine only",
+      "Imprisonment or fine",
+      "No punishment"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Learner licence holder:",
+    "options": [
+      "Can carry passengers",
+      "Cannot carry passengers",
+      "Can drive alone"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Minimum age for obtaining a driving licence for transport vehicles:",
+    "options": ["18 years", "20 years", "21 years"],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Overtaking is prohibited when:",
+    "options": [
+      "Road ahead is not clear",
+      "Road is wide",
+      "Vehicle is slow"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "If a person controlling an animal requests you to stop:",
+    "options": [
+      "Ignore and proceed",
+      "Stop the vehicle",
+      "Blow horn"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Parking is prohibited:",
+    "options": [
+      "Where parking is permitted",
+      "Where it causes inconvenience",
+      "Anywhere"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Over speeding:",
+    "options": [
+      "Not an offence",
+      "Fine only",
+      "Leads to licence suspension"
+    ],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "When school buses stop:",
+    "options": [
+      "Ignore",
+      "Proceed cautiously",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "When a blind person crosses with white cane:",
+    "options": [
+      "Blow horn",
+      "Stop vehicle",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "When vehicle behind overtakes:",
+    "options": [
+      "Increase speed",
+      "Block vehicle",
+      "Do not obstruct"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "When driver ahead gives no overtaking signal:",
+    "options": [
+      "Overtake anyway",
+      "Wait",
+      "Blow horn continuously"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Parking is prohibited at:",
+    "options": [
+      "Hospital entrance",
+      "Parking zone",
+      "Wide roads"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Parking is prohibited:",
+    "options": [
+      "Blocking fire hydrant",
+      "Near home",
+      "On private land"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "After accident involving injury:",
+    "options": [
+      "Report within 24 hours",
+      "Report within 7 days",
+      "No need to report"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Damage to property accident:",
+    "options": [
+      "Report within 24 hours",
+      "Report within 7 days",
+      "No need"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "When vehicle behind starts overtaking:",
+    "options": [
+      "Overtake another vehicle",
+      "Do not overtake",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "When vehicle is being overtaken:",
+    "options": [
+      "Increase speed",
+      "Maintain speed",
+      "Slow down"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Parking is prohibited:",
+    "options": [
+      "Entrance of hospital",
+      "Road side",
+      "Market"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Parking is prohibited:",
+    "options": [
+      "Blocking hydrant",
+      "Near house",
+      "Empty road"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Carrying pillion rider requires:",
+    "options": [
+      "Footrest and hand grip",
+      "Sidecar",
+      "Nothing"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Smoking while driving public vehicle:",
+    "options": [
+      "Allowed",
+      "Leads to licence suspension",
+      "No issue"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Abandoning vehicle in public place:",
+    "options": [
+      "Allowed",
+      "Leads to licence suspension",
+      "No issue"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Carrying overload:",
+    "options": [
+      "Legal",
+      "Punishable",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Taxi driver refusing short trip:",
+    "options": [
+      "Allowed",
+      "Leads to penalty",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "At intersection without signal:",
+    "options": [
+      "Give way to right",
+      "Give way to left",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Yellow blinking light:",
+    "options": [
+      "Stop",
+      "Proceed cautiously",
+      "Go fast"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Continuous yellow line:",
+    "options": [
+      "Do not cross",
+      "Cross anytime",
+      "Parking allowed"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Driving on gradient road:",
+    "options": [
+      "Give way to uphill vehicle",
+      "Give way to downhill vehicle",
+      "No rule"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Tractor driver shall not carry:",
+    "options": [
+      "Only driver",
+      "More than allowed persons",
+      "Passengers freely"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Entering main road:",
+    "options": [
+      "Give way to main road traffic",
+      "Speed up",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Tailgating means:",
+    "options": [
+      "Driving too close",
+      "Driving safely",
+      "Driving slow"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Vehicle can be seized if:",
+    "options": [
+      "No registration",
+      "Low fuel",
+      "Dirty vehicle"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Driving in reverse gear is prohibited:",
+    "options": [
+      "On one-way road",
+      "On empty road",
+      "On private road"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Drunken driving punishment:",
+    "options": [
+      "Fine only",
+      "Imprisonment or fine",
+      "Warning"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Learner licence holder:",
+    "options": [
+      "Can drive alone",
+      "Needs instructor",
+      "Carry passengers"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Yellow signal light:",
+    "options": [
+      "Speed up",
+      "Prepare to stop",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Motor vehicle must have:",
+    "options": [
+      "Insurance",
+      "Only RC",
+      "Only tax"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Minimum safe distance depends on:",
+    "options": [
+      "Speed",
+      "Vehicle color",
+      "Driver age"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Passenger limit is recorded in:",
+    "options": [
+      "RC",
+      "Insurance",
+      "Permit"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Overtaking prohibited when:",
+    "options": [
+      "Continuous yellow line",
+      "Broken white line",
+      "Wide road"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Broken white line means:",
+    "options": [
+      "Change lane allowed",
+      "No lane change",
+      "Stop"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Blinking red light means:",
+    "options": [
+      "Stop and proceed if safe",
+      "Go fast",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "You can overtake a vehicle through the left side when:",
+    "options": [
+      "Vehicle ahead signals right turn",
+      "Road is narrow",
+      "At any time"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Tail-gating means:",
+    "options": [
+      "Driving too close behind another vehicle",
+      "Maintaining safe distance",
+      "Driving slowly"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "A vehicle can be seized if:",
+    "options": [
+      "No valid registration or permit",
+      "Low fuel",
+      "Dirty condition"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving in reverse gear is prohibited:",
+    "options": [
+      "On one-way roads",
+      "On empty roads",
+      "On private roads"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Drunken driving punishment includes:",
+    "options": [
+      "Warning only",
+      "Fine or imprisonment",
+      "No punishment"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Learner licence holder should:",
+    "options": [
+      "Drive alone",
+      "Drive with instructor",
+      "Carry passengers"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Yellow traffic signal means:",
+    "options": [
+      "Go fast",
+      "Prepare to stop",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Motor vehicles must have:",
+    "options": [
+      "Insurance",
+      "Only RC",
+      "Only tax"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Safe distance between vehicles depends on:",
+    "options": [
+      "Speed of vehicle",
+      "Driver age",
+      "Vehicle color"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Passenger limit is recorded in:",
+    "options": [
+      "Registration Certificate",
+      "Insurance",
+      "Permit"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Overtaking is prohibited when:",
+    "options": [
+      "Continuous yellow line",
+      "Broken white line",
+      "Road is wide"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Broken white line indicates:",
+    "options": [
+      "Lane change allowed",
+      "No crossing",
+      "Stop"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Blinking red traffic light means:",
+    "options": [
+      "Stop and proceed if safe",
+      "Go fast",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum speed of motor car on highway:",
+    "options": [
+      "50 km/hr",
+      "60 km/hr",
+      "As per law"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Defensive driving means:",
+    "options": [
+      "Anticipating dangers and driving cautiously",
+      "Driving fast",
+      "Ignoring rules"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Stop line indicates:",
+    "options": [
+      "Stop before line",
+      "Slow down",
+      "Overtake"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Before starting engine you should:",
+    "options": [
+      "Check fuel and oil",
+      "Start immediately",
+      "Ignore checks"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum speed of motorcycle:",
+    "options": [
+      "50 km/hr",
+      "60 km/hr",
+      "70 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Vehicle allowed above 60 km/hr:",
+    "options": [
+      "Motor car",
+      "Motorcycle",
+      "Heavy vehicle"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum speed near school:",
+    "options": [
+      "25 km/hr",
+      "40 km/hr",
+      "60 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Load projection allowed at rear:",
+    "options": [
+      "1 meter",
+      "2 meters",
+      "No limit"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum speed of heavy vehicle in city:",
+    "options": [
+      "35 km/hr",
+      "45 km/hr",
+      "60 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Distance between towing vehicles:",
+    "options": [
+      "5 meters",
+      "10 meters",
+      "15 meters"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Motorcycle speed in city:",
+    "options": [
+      "40 km/hr",
+      "30 km/hr",
+      "50 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "When overtaking slow vehicle:",
+    "options": [
+      "Overtake from right",
+      "Overtake from left",
+      "Any side"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Speed while towing:",
+    "options": [
+      "20 km/hr",
+      "24 km/hr",
+      "32 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Motor vehicle not allowed above 30 km/hr in ghats:",
+    "options": [
+      "Heavy passenger vehicle",
+      "Motorcycle",
+      "Car"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Motorcycle speed at night:",
+    "options": [
+      "25 km/hr",
+      "30 km/hr",
+      "40 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Maximum load on goods carriage:",
+    "options": [
+      "10 ton",
+      "Unlimited",
+      "As per permit"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Fine for overloading:",
+    "options": [
+      "Rs 1000",
+      "Rs 2000",
+      "Rs 3000"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Autorickshaw speed near school:",
+    "options": [
+      "25 km/hr",
+      "35 km/hr",
+      "45 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Light motor vehicle speed near school:",
+    "options": [
+      "20 km/hr",
+      "30 km/hr",
+      "40 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Motor car speed on ghat roads:",
+    "options": [
+      "30 km/hr",
+      "40 km/hr",
+      "50 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Motorcycle speed on ghat roads:",
+    "options": [
+      "30 km/hr",
+      "35 km/hr",
+      "40 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Medium motor vehicle speed:",
+    "options": [
+      "60 km/hr",
+      "70 km/hr",
+      "No limit"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "According to Motor Vehicles Act, speed limit should:",
+    "options": [
+      "Not be exceeded",
+      "Be ignored at night",
+      "Be exceeded if road is empty"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driver should not drive a vehicle:",
+    "options": [
+      "After consuming alcohol",
+      "At night",
+      "In rain"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum speed near a procession:",
+    "options": [
+      "15 km/hr",
+      "25 km/hr",
+      "35 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum height of load from ground:",
+    "options": [
+      "3.8 meters",
+      "3 meters",
+      "No limit"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Maximum speed of heavy vehicle near school:",
+    "options": [
+      "15 km/hr",
+      "25 km/hr",
+      "35 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Wearing helmet while riding two-wheeler:",
+    "options": [
+      "Optional",
+      "Mandatory",
+      "Only at night"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Speed of medium vehicle near school:",
+    "options": [
+      "15 km/hr",
+      "25 km/hr",
+      "35 km/hr"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Autorickshaw speed on ghat road:",
+    "options": [
+      "30 km/hr",
+      "40 km/hr",
+      "20 km/hr"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Heavy vehicle speed on ghat road:",
+    "options": [
+      "35 km/hr",
+      "25 km/hr",
+      "15 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Autorickshaw speed in city:",
+    "options": [
+      "40 km/hr",
+      "30 km/hr",
+      "20 km/hr"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Driving a vehicle with speed governor:",
+    "options": [
+      "Ignore limits",
+      "Be cautious while overtaking",
+      "Drive freely"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "U-turn at signal:",
+    "options": [
+      "Take anytime",
+      "Wait for green signal",
+      "Ignore signal"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Zig-zag driving is:",
+    "options": [
+      "Safe",
+      "Dangerous",
+      "Recommended"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "When descending slope:",
+    "options": [
+      "Use neutral gear",
+      "Use low gear",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "To supervise learner:",
+    "options": [
+      "Must hold valid licence",
+      "Any person allowed",
+      "No requirement"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "At roundabout:",
+    "options": [
+      "Entering traffic has priority",
+      "Traffic inside has priority",
+      "No rule"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Helmet is required because:",
+    "options": [
+      "Safety",
+      "Police checking",
+      "Style"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Horn should be used:",
+    "options": [
+      "To warn others",
+      "To attract attention",
+      "Always"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Overtaking a bus at stop:",
+    "options": [
+      "Overtake quickly",
+      "Wait behind",
+      "Use horn"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "At night overtaking:",
+    "options": [
+      "Use high beam",
+      "Avoid dazzling others",
+      "Ignore signals"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Flashing yellow signal:",
+    "options": [
+      "Stop",
+      "Proceed cautiously",
+      "Go fast"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Stopping for pedestrians:",
+    "options": [
+      "Wait patiently",
+      "Blow horn",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "High beam in fog:",
+    "options": [
+      "Good",
+      "Bad due to reflection",
+      "No effect"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Dipping headlights is needed:",
+    "options": [
+      "When overtaking",
+      "When vehicle approaches",
+      "Always"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Changing lanes:",
+    "options": [
+      "Do suddenly",
+      "Do carefully with signals",
+      "No need signal"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Vehicle approaching from behind flashing lights:",
+    "options": [
+      "Speed up",
+      "Allow overtaking",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driving in rain:",
+    "options": [
+      "Keep close distance",
+      "Maintain safe distance",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Hazard lights used when:",
+    "options": [
+      "Moving straight",
+      "Vehicle causing obstruction",
+      "Normal driving"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driving on motorway at night:",
+    "options": [
+      "High beam always",
+      "Low beam with traffic",
+      "No lights"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "ABS prevents:",
+    "options": [
+      "Tyre burst",
+      "Wheel locking",
+      "Engine failure"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Cyclist turning right:",
+    "options": [
+      "Overtake left",
+      "Overtake right",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving at high speed:",
+    "options": [
+      "Better efficiency",
+      "Less reaction time",
+      "Safe"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driver should avoid:",
+    "options": [
+      "Following rules",
+      "Observing gauges",
+      "Wrong behaviour"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Continuous yellow line means:",
+    "options": [
+      "Do not cross",
+      "Cross freely",
+      "Parking allowed"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving speed on carriageway:",
+    "options": [
+      "Maximum legal speed",
+      "Any speed",
+      "Slow only"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Approaching bridge:",
+    "options": [
+      "Speed up",
+      "Slow down and do not overtake",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Approaching right curve:",
+    "options": [
+      "Keep left",
+      "Keep right",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Blind junction:",
+    "options": [
+      "Stop only if traffic",
+      "Stop and move slowly",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Entering wrong way in one-way road:",
+    "options": [
+      "Continue",
+      "Reverse carefully",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Vehicle reversing from side road:",
+    "options": [
+      "Speed up",
+      "Be ready to stop",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Before making a U-turn, you should:",
+    "options": [
+      "Check mirrors and give proper signal",
+      "Turn immediately",
+      "Blow horn only"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "When moving from a parked position, you should:",
+    "options": [
+      "Use mirrors, check blind spot, and signal",
+      "Move immediately",
+      "Blow horn"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Stopping on a motorway is allowed:",
+    "options": [
+      "Only in emergency",
+      "Anytime",
+      "At signals"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "While turning left, position vehicle:",
+    "options": [
+      "Left side of road",
+      "Center of road",
+      "Right side"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "When in wrong lane at junction:",
+    "options": [
+      "Continue in same lane",
+      "Cut across suddenly",
+      "Stop and wait"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Reversing vehicle is prohibited:",
+    "options": [
+      "On busy roads",
+      "On private land",
+      "Anywhere"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Rear view mirror is curved to:",
+    "options": [
+      "Give wider field of vision",
+      "Show speed",
+      "Decorate"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Noise pollution affects:",
+    "options": [
+      "Mental concentration",
+      "Nothing",
+      "Only vehicles"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Air pollution affects:",
+    "options": [
+      "Humans only",
+      "Plants and animals",
+      "Both"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "Using horn unnecessarily causes:",
+    "options": [
+      "Noise pollution",
+      "Better driving",
+      "No effect"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Vehicle pulling to one side while braking indicates:",
+    "options": [
+      "Brake issue",
+      "Normal condition",
+      "Fuel issue"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Common cause of skidding:",
+    "options": [
+      "Bad tyres or road",
+      "Good brakes",
+      "Slow speed"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "When dazzled by headlights:",
+    "options": [
+      "Look to left side of road",
+      "Look directly",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Blind spot is:",
+    "options": [
+      "Area not visible in mirrors",
+      "Front view",
+      "Dashboard area"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving under influence falls under:",
+    "options": [
+      "Section 185",
+      "Section 121",
+      "Section 100"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "After accident, driver should:",
+    "options": [
+      "Give first aid and inform authorities",
+      "Run away",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "First aid aims to:",
+    "options": [
+      "Prevent worsening of injury",
+      "Delay treatment",
+      "Ignore injury"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Alcohol affects driving by:",
+    "options": [
+      "Reducing concentration",
+      "Improving reflex",
+      "Increasing control"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "After amber signal comes:",
+    "options": [
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "If feeling tired while driving:",
+    "options": [
+      "Stop and rest",
+      "Speed up",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Driving while ill:",
+    "options": [
+      "Stop and seek help",
+      "Continue",
+      "Drive fast"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "ABS helps to:",
+    "options": [
+      "Prevent wheel lock",
+      "Increase speed",
+      "Reduce fuel"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Prevent brake fade by:",
+    "options": [
+      "Using engine braking",
+      "Using neutral gear",
+      "Constant braking"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Stopping on uphill:",
+    "options": [
+      "Use parking brake",
+      "Use clutch only",
+      "Use accelerator"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving behind large vehicle:",
+    "options": [
+      "Keep safe distance",
+      "Drive close",
+      "Overtake blindly"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Driving in flooded road:",
+    "options": [
+      "Drive slowly in low gear",
+      "Speed up",
+      "Stop immediately"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving downhill in neutral is dangerous because:",
+    "options": [
+      "Loss of control",
+      "Better fuel",
+      "No effect"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Power steering helps to:",
+    "options": [
+      "Reduce effort",
+      "Increase speed",
+      "Reduce fuel"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "To avoid harsh driving:",
+    "options": [
+      "Plan and act early",
+      "Brake suddenly",
+      "Accelerate fast"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Weight transfer is noticed during:",
+    "options": [
+      "Braking and cornering",
+      "Parking",
+      "Idling"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Before a bend:",
+    "options": [
+      "Reduce speed and gear",
+      "Speed up",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Hazard lights used:",
+    "options": [
+      "Emergency situations",
+      "Normal driving",
+      "Overtaking"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Laminated glass:",
+    "options": [
+      "Does not shatter easily",
+      "Breaks easily",
+      "No difference"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "After accident:",
+    "options": [
+      "Stay and help",
+      "Leave immediately",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Vehicle hits parked car:",
+    "options": [
+      "Inform police within 24 hours",
+      "Leave",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Tyre burst while driving:",
+    "options": [
+      "Hold steering firmly and stop safely",
+      "Brake suddenly",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Motorcyclists should wear:",
+    "options": [
+      "Bright clothing",
+      "Dark clothing",
+      "No rule"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Opening right door:",
+    "options": [
+      "Check for traffic",
+      "Open immediately",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Loading vehicle safely:",
+    "options": [
+      "Distribute load evenly",
+      "Load rear heavy",
+      "Load randomly"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Loose sand load:",
+    "options": [
+      "Cover properly",
+      "Leave open",
+      "No rule"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving without valid insurance is:",
+    "options": [
+      "Allowed",
+      "Illegal",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "A driving licence issued in one state is valid:",
+    "options": [
+      "Throughout India",
+      "Only in that state",
+      "Only in city"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "A person can hold:",
+    "options": [
+      "Only one driving licence",
+      "Multiple licences",
+      "Unlimited licences"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Allowing an unlicensed person to drive:",
+    "options": [
+      "Allowed",
+      "Serious offence",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Driving with pollution beyond limits:",
+    "options": [
+      "Allowed",
+      "Punishable offence",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+
+  {
+    "q": "Abrupt braking should be avoided:",
+    "options": [
+      "Unless necessary",
+      "Always allowed",
+      "Only at night"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Objects hanging from rear view mirror:",
+    "options": [
+      "Allowed",
+      "Allowed if small",
+      "Prohibited"
+    ],
+    "img": "",
+    "correct": 2
+  },
+  {
+    "q": "While passing a procession:",
+    "options": [
+      "Drive fast",
+      "Drive carefully at low speed",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Braking in motorcycle:",
+    "options": [
+      "Use both brakes",
+      "Use only rear brake",
+      "Use only front brake"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Group riding of motorcycles:",
+    "options": [
+      "Side by side",
+      "Single line",
+      "Staggered formation"
+    ],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "Driving on gravel road:",
+    "options": [
+      "Speed up",
+      "Slow down and use low gear",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Fuel efficiency improves at:",
+    "options": [
+      "Moderate constant speed",
+      "High speed",
+      "Low speed only"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Exhaust gases contain:",
+    "options": [
+      "Carbon monoxide",
+      "Oxygen only",
+      "Water vapor only"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Poison gas from petrol vehicles:",
+    "options": [
+      "Carbon monoxide",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving with worn tyres is dangerous because:",
+    "options": [
+      "Less road grip",
+      "Better speed",
+      "No effect"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Temporary registration vehicle can be used:",
+    "options": [
+      "Only for registration purpose",
+      "Anywhere",
+      "Unlimited use"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Over speeding:",
+    "options": [
+      "Not punishable",
+      "Punishable offence",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Clutch riding means:",
+    "options": [
+      "Keeping foot on clutch",
+      "Using brakes",
+      "Changing gears"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Emergency vehicle with flashing light:",
+    "options": [
+      "Ignore",
+      "Give way",
+      "Race"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Opening vehicle door:",
+    "options": [
+      "Check traffic first",
+      "Open immediately",
+      "Ignore"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Parking properly means:",
+    "options": [
+      "Not obstructing traffic",
+      "Anywhere",
+      "On footpath"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Driving without insurance:",
+    "options": [
+      "Allowed",
+      "Illegal",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Accident compensation claim:",
+    "options": [
+      "Motor Accident Claims Tribunal",
+      "Police station",
+      "Bank"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Penalty for drunken driving:",
+    "options": [
+      "Fine or imprisonment",
+      "Warning",
+      "None"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Seat belts are required for:",
+    "options": [
+      "Driver only",
+      "Front passengers only",
+      "Both driver and passengers"
+    ],
+    "img": "",
+    "correct": 2
+  },
+
+  {
+    "q": "Alcohol limit in blood:",
+    "options": [
+      "30 mg/100 ml",
+      "100 mg/100 ml",
+      "No limit"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Person obstructing driver:",
+    "options": [
+      "Allowed",
+      "Not allowed",
+      "Optional"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Left hand drive vehicle:",
+    "options": [
+      "Allowed with caution sign",
+      "Illegal",
+      "Free use"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Load projecting backwards:",
+    "options": [
+      "Allowed up to 1 meter",
+      "Unlimited",
+      "Not allowed"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "After water on brakes:",
+    "options": [
+      "Apply brakes repeatedly",
+      "Ignore",
+      "Stop permanently"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Driving without licence:",
+    "options": [
+      "Penalty for driver and owner",
+      "Allowed",
+      "Warning"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Carrying passenger in tractor:",
+    "options": [
+      "Allowed limited",
+      "Not allowed",
+      "Unlimited"
+    ],
+    "img": "",
+    "correct": 1
+  },
+  {
+    "q": "Low visibility driving:",
+    "options": [
+      "Use headlights",
+      "Ignore",
+      "Speed up"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Yellow line on road means:",
+    "options": [
+      "No overtaking",
+      "Parking allowed",
+      "Stop"
+    ],
+    "img": "",
+    "correct": 0
+  },
+  {
+    "q": "Flashing yellow signal:",
+    "options": [
+      "Proceed with caution",
+      "Stop",
+      "Go fast"
+    ],
+    "img": "",
+    "correct": 0
+  },
+
+  {
+    "q": "Lane traffic means:",
+    "options": [
+      "Follow lane discipline",
+      "Drive anywhere",
+      "No rule"
+    ],
+    "img": "",
+    "correct": 0
+  }
+]

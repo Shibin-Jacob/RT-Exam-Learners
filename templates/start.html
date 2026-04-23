@@ -1,0 +1,31 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+<div class="start-page">
+
+    <div class="start-card">
+
+        <h1>Exam Simulator</h1>
+        <p class="subtitle">Practice. Improve. Succeed.</p>
+
+        <form method="POST" action="/start">
+
+            <div class="input-group">
+                <label>Your Name</label>
+                <input type="text" name="username" placeholder="Enter your name" required>
+            </div>
+
+            <button class="start-btn">Start Exam</button>
+
+        </form>
+
+        <div class="meta">
+            <span>⏱ 30 Questions</span>
+            <span>⚡ 30 sec per question</span>
+        </div>
+
+    </div>
+
+</div>
+
+{% endblock %}

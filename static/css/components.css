@@ -1,0 +1,340 @@
+.card {
+    background: white;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+.question {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.option {
+    display: block;
+    padding: 14px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.option:hover {
+    border-color: var(--primary);
+    background: #eef2ff;
+}
+
+.actions button {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    background: var(--primary);
+    color: white;
+    border-radius: 10px;
+}
+
+.sidebar {
+    padding: 20px;
+    background: #f1f5f9;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}
+
+.cell {
+    height: 40px;
+    background: #e2e8f0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 8px;
+}
+
+.cell.active {
+    background: var(--primary);
+    color: white;
+}
+
+.cell.answered {
+    background: #22c55e;
+    color: white;
+}
+
+/* Username */
+.username {
+    font-size: 14px;
+    color: var(--muted);
+}
+
+/* Selected option */
+.option.selected {
+    border-color: var(--primary);
+    background: #eef2ff;
+}
+
+/* START PAGE */
+
+.start-page {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #6366f1, #4f46e5);
+}
+
+.start-card {
+    background: white;
+    padding: 40px;
+    border-radius: 18px;
+    width: 350px;
+    text-align: center;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.15);
+}
+
+.start-card h1 {
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    color: #64748b;
+    margin-bottom: 25px;
+}
+
+.input-group {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.input-group label {
+    font-size: 13px;
+    color: #64748b;
+}
+
+.input-group input {
+    width: 322px;
+    padding: 12px;
+    margin-top: 6px;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+.start-btn {
+    width: 100%;
+    padding: 14px;
+    border: none;
+    background: #6366f1;
+    color: white;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.start-btn:hover {
+    background: #4f46e5;
+}
+
+.meta {
+    margin-top: 20px;
+    font-size: 13px;
+    color: #64748b;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* RESULT PAGE */
+
+.result-page {
+    max-width: 900px;
+    margin: auto;
+    padding: 30px;
+}
+
+.result-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.score-box {
+    text-align: right;
+}
+
+.score-box h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.score-box span {
+    color: #64748b;
+}
+
+.stats {
+    display: flex;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.stat-card {
+    flex: 1;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    color: white;
+}
+
+.stat-card.green {
+    background: #22c55e;
+}
+
+.stat-card.red {
+    background: #ef4444;
+}
+
+.answers {
+    margin-top: 20px;
+}
+
+.answer-card {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border-left: 5px solid transparent;
+}
+
+.answer-card.correct {
+    border-color: #22c55e;
+}
+
+.answer-card.wrong {
+    border-color: #ef4444;
+}
+
+.answer-card .q {
+    font-weight: 500;
+}
+
+.answer-card .your {
+    color: #64748b;
+}
+
+.answer-card .correct {
+    font-size: 14px;
+}
+
+/* =========================
+   HEADER (REFINED)
+========================= */
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;   /* 🔥 reduced height */
+    background: #ffffff;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+/* LEFT */
+.header-left h2 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.progress {
+    display: block;
+    font-size: 12px;
+    color: #64748b;
+}
+
+/* CENTER */
+.header-center {
+    text-align: center;
+}
+
+.username {
+    font-size: 13px;
+    color: #64748b;
+}
+
+/* RIGHT (TIMER) */
+.header-right {
+    display: flex;
+    align-items: center;
+}
+
+/* 🔴 TIMER BADGE */
+.timer-box {
+    border: 2px solid #ef4444;
+    border-radius: 999px;
+    padding: 6px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 70px;
+}
+
+#timer {
+    font-size: 14px;
+    font-weight: 600;
+    color: #ef4444;
+    letter-spacing: 1px;
+}
+
+/* Sidebar container fix */
+.sidebar {
+    padding: 12px;
+    background: #f1f5f9;
+
+    /* 🔥 KEY FIX */
+    align-self: start;        /* prevents stretching */
+    height: fit-content;      /* shrink to content */
+}
+
+/* Grid tighter layout */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 8px;
+}
+
+/* Cells slightly smaller & tighter */
+.cell {
+    height: 36px;
+    font-size: 13px;
+}
+
+/* Header layout improvement */
+.header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    padding: 10px 16px;
+}
+
+/* Center section (name) */
+.header-center {
+    text-align: center;
+}
+
+.username {
+    font-size: 13px;
+    color: #64748b;
+    white-space: nowrap;
+}
+
+/* Slight visual polish */
+.cell {
+    border-radius: 6px;
+    transition: 0.2s;
+}
+
+.cell:hover {
+    transform: scale(1.05);
+}

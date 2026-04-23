@@ -1,0 +1,153 @@
+@media (max-width: 768px) {
+
+    .main {
+        grid-template-columns: 1fr;
+    }
+
+    .sidebar {
+        order: -1;
+        overflow-x: auto;
+    }
+
+    .grid {
+        display: flex;
+    }
+
+    .cell {
+        min-width: 35px;
+    }
+
+    .card {
+        margin: 10px;
+        padding: 20px;
+    }
+}
+
+/* =========================
+   START PAGE RESPONSIVE
+========================= */
+
+@media (max-width: 768px) {
+
+    .start-card {
+        width: 90%;
+        padding: 25px;
+        border-radius: 14px;
+    }
+
+    .start-card h1 {
+        font-size: 22px;
+    }
+
+    .subtitle {
+        font-size: 14px;
+    }
+
+    .input-group input {
+        padding: 7px;
+        font-size: 14px;
+        width: 253px;
+    }
+
+    .start-btn {
+        padding: 12px;
+        font-size: 14px;
+    }
+
+    .meta {
+        flex-direction: column;
+        gap: 5px;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 480px) {
+
+    .start-page {
+        padding: 10px;
+    }
+
+    .start-card {
+        padding: 20px;
+    }
+
+    .start-card h1 {
+        font-size: 20px;
+    }
+}
+
+/* =========================
+   RESULT PAGE RESPONSIVE
+========================= */
+
+@media (max-width: 768px) {
+
+    .result-page {
+        padding: 15px;
+    }
+
+    /* Header stacks */
+    .result-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .score-box {
+        text-align: left;
+    }
+
+    .score-box h1 {
+        font-size: 36px;
+    }
+
+    /* Stats stack */
+    .stats {
+        flex-direction: column;
+    }
+
+    .stat-card {
+        padding: 15px;
+    }
+
+    /* Answer cards cleaner */
+    .answer-card {
+        padding: 12px;
+    }
+
+    .answer-card .q {
+        font-size: 14px;
+    }
+
+    .answer-card .your,
+    .answer-card .correct {
+        font-size: 13px;
+    }
+}
+
+
+@media (max-width: 480px) {
+
+    .score-box h1 {
+        font-size: 30px;
+    }
+
+    .stat-card h3 {
+        font-size: 20px;
+    }
+
+    .answer-card {
+        border-radius: 8px;
+    }
+}
+
+@media (max-width: 768px) {
+    .username {
+        display:none;
+    }
+    .sidebar {
+    padding-right: 12px;
+    margin-right: 4px;   /* extra safety spacing */
+}
+}

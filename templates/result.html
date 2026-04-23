@@ -1,0 +1,59 @@
+{% extends 'layout.html' %}
+{% block content %}
+
+<div class="result-page">
+
+    <!-- TOP SUMMARY -->
+    <div class="result-header">
+
+        <div>
+            <h2>Well done, {{ name }} 👏</h2>
+            <p>Your performance summary</p>
+        </div>
+
+        <div class="score-box">
+            <h1>{{ score }}%</h1>
+            <span>{{ correct }} / {{ total }} correct</span>
+        </div>
+
+    </div>
+
+    <!-- STATS -->
+    <div class="stats">
+
+        <div class="stat-card green">
+            <h3>{{ correct }}</h3>
+            <p>Correct</p>
+        </div>
+
+        <div class="stat-card red">
+            <h3>{{ total - correct }}</h3>
+            <p>Wrong</p>
+        </div>
+
+    </div>
+
+    <!-- ANSWERS -->
+    <div class="answers">
+
+        {% for r in results %}
+        <div class="answer-card {{ 'correct' if r.status else 'wrong' }}">
+
+            <p class="q">{{ r.q }}</p>
+
+            <p class="your">
+                Your: {{ r.your }}
+            </p>
+
+            <p class="correct">
+                Correct: {{ r.correct }}
+            </p>
+
+        </div>
+        {% endfor %}
+
+    </div>
+
+</div>
+
+{% endblock %}
